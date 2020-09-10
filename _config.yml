@@ -1,8 +1,7 @@
 # Site settings
 title: Roywang
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-  待凛冬离去雪融草青，相信一定有新的相逢将温柔延续
+  When the winter leaves, the snow melts and the grass is green. I believe there will be a new meeting that will continue gently
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://roywang1002.github.io/" # the base hostname & protocol for your site
 
