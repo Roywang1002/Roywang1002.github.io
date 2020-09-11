@@ -1,14 +1,14 @@
 ---
 layout: page
 title: 个人简介
-subtitle: An awesome person
+subtitle: Innocent and brilliant, the world is wandering
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+``` Love is a perpetual possibility 热爱是一种永恒的可能 ```  
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
