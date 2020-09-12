@@ -24,17 +24,17 @@ Seemingly no waves day after day, will one day let a person see the significance
 ### Quotations 语录
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
+**1**  
 As long as the heart is full of sunshine, every day can be boiling hot
 只要心中充满阳光，每一个日子都能过得滚烫。
  
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
+**2**  
 When the winter leaves, the snow melts and the grass is green. I believe there will be a new meeting that will continue gently
 待凛冬离去，雪融草青，相信一定有新的相逢将温柔持续。
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
+**3**  
 There is always a sea for me to see
 总有一片海，适合我去看看。
 
@@ -45,20 +45,7 @@ You can't get anywhere, pretending to be someone you're not.
 不去面对真实的自己，你将一事无成。
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+### Contact 联系方式
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-You can't get anywhere, pretending to be someone you're not.
-不去面对真实的自己，你将一事无成。 
-
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- iPhone：1234567891011
+- Email：1234567891011@163.com
