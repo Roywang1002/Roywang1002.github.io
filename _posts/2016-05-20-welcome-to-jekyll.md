@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Welcome to Pudhina"
-subtitle: "A minimal Jekyll theme"
-date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+title:  "Zi Liang 第一条"
+subtitle: "灯火可亲，有梦可做"
+date:   2020-09-12 21:21:21 +0530
+categories: ["1"]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

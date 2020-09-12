@@ -1,7 +1,7 @@
 ---
 layout: page
-title: '博客'
-subtitle: Select ramblings of Pudhina
+title: 日常滚烫博客
+subtitle: Not time, not their own;Live up to the loved and be loved.
 ---
 
 <div>
