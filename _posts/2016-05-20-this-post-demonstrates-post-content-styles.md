@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
-subtitle: "This is a subtitle"
-date:   2016-05-20 21:21:21 +0530
-categories: junk
+title: "Zi Liang 第二条"
+subtitle: "灯火可亲，有梦可做"
+date:   2020-09-12 21:21:21 +0530
+categories: ["2"]
 author: "Bart Simpson"
 meta: "Springfield"
 ---
